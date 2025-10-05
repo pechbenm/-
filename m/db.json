@@ -1,0 +1,30 @@
+{
+  "_default": {
+    "1": {
+      "name": "Данные пользователя",
+      "login": "email",
+      "tel": "phone"
+    },
+    "2": {
+      "name": "Форма заказа",
+      "customer": "text",
+      "order_id": "text",
+      "order_date": "date",
+      "contact": "phone"
+    },
+    "3": {
+      "name": "Обратная связь",
+      "customer_name": "text",
+      "customer_email": "email",
+      "feedback_date": "date",
+      "comments": "text"
+    },
+    "4": {
+      "name": "Запрос информации",
+      "requester_name": "text",
+      "requester_email": "email",
+      "request_date": "date",
+      "message": "text"
+    }
+  }
+}
