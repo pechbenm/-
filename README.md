@@ -1,7 +1,8 @@
 Первым делом надо запустить консоль и написать туда команду которая перенесет нас в саму папку для дальнейшей манипуляции: cd путь/до/папки
 
 После этого когда консоль будет выглядеть вот так:
-<img width="453" height="78" alt="image" src="https://github.com/user-attachments/assets/961a29fc-96cb-42db-a3e7-336cd8c79455" />
+<img width="651" height="119" alt="image" src="https://github.com/user-attachments/assets/f8bd47f6-da19-4d9a-8215-142c11062906" />
+
 
 Теперь можно написать команду python app.py get_tpl --customer=John Smith --order_date=27.05.2025, вместо этих данных могут быть любые другие
 
